@@ -1,8 +1,8 @@
 ## Olá!! Eu sou o Erik Bezerra ou 7rik
 
 
-- 🔭 Hoje trabalho de recepsionista
-- 🌱 Estou cursando atualmente Analise e Desenvolvimento de Sistemas
+- 🔭 Job: Hoje trabalho de recepsionista
+- 🌱 Learning: Estou cursando atualmente Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
