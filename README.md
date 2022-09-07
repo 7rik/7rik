@@ -11,17 +11,45 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rik&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-### 🧠Skills
+##
 
-<div style="display: inline_block"><br>
+#### 🧠Skills
 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  
+   <div style="display: inline_block;">
+    
+  <kbd align="center">
+      <kbd>Conhecimento em:</kbd>
+        <br />
+        <br />
+      <img align="center" title="Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+      <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        <br />
+        <br /> 
+      </kbd>
+      
+   <kbd align="center">
+      <kbd>Estudando:</kbd>
+        <br />
+        <br />
+  <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" title="C#" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+        <br />
+        <br /> 
+      </kbd>
+      
+  <kbd align="center">
+      <kbd>Interesses:</kbd>
+        <br />
+        <br />
+  <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+   <img align="center" title="NodeJS" alt="NJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+         <br />
+        <br /> 
+      </kbd>
+      
 </div>
 
 ##
