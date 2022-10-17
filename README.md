@@ -3,7 +3,6 @@
 
 - 🔭 Job: Hoje trabalho de recepcionista
 - 🌱 Learning: Estou cursando atualmente Analise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
 
 ##
 
