@@ -1,7 +1,6 @@
 ## Olá!! Eu sou o Erik Bezerra ou 7rik
 
 
-- 🔭 Job: Hoje trabalho de recepcionista
 - 🌱 Learning: Estou cursando atualmente Analise e Desenvolvimento de Sistemas
 
 ##
