@@ -1,7 +1,8 @@
 ## Olá!! Eu sou o Erik Bezerra ou 7rik
 
 
-- 🌱 Learning: Estou cursando atualmente Analise e Desenvolvimento de Sistemas
+- 🌱 Learning: Estou cursando atualmente Analise e Desenvolvimento de Sistemas.
+- 🧑‍💻 Working: Estagiário de Denvolvimento na F13-Tecnologia.
 
 ##
 
