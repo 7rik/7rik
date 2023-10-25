@@ -2,7 +2,7 @@
 
 
 - 🌱 Learning: Estou cursando atualmente Analise e Desenvolvimento de Sistemas.
-- 🧑‍💻 Working: Estagiário de Denvolvimento na F13-Tecnologia.
+- 🧑‍💻 Working: Estagiário de Desenvolvimento na F13-Tecnologia.
 
 ##
 
@@ -32,6 +32,8 @@
       <kbd>Estudando:</kbd>
         <br />
         <br />
+  <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" title="TypeScript" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <br />
@@ -42,9 +44,9 @@
       <kbd>Interesses:</kbd>
         <br />
         <br />
-  <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-   <img align="center" title="NodeJS" alt="NJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" title="Go" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
+  <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
          <br />
         <br /> 
       </kbd>
