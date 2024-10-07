@@ -1,8 +1,8 @@
 ## Olá!! Eu sou o Erik Bezerra ou 7rik
 
 
-- 🌱 Learning: Estou cursando atualmente Analise e Desenvolvimento de Sistemas.
-- 🧑‍💻 Working: Estagiário de Desenvolvimento na F13-Tecnologia.
+- 🌱 Graduated in Systems Analysis and Development.
+- 🧑‍💻 Working: Q.A. Analyst at UNUN Sistemas
 
 ##
 
@@ -19,17 +19,18 @@
    <div style="display: inline_block;">
     
   <kbd align="center">
-      <kbd>Conhecimento em:</kbd>
+      <kbd>Knowledge about:</kbd>
         <br />
         <br />
       <img align="center" title="Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
       <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
         <br />
         <br /> 
       </kbd>
       
    <kbd align="center">
-      <kbd>Estudando:</kbd>
+      <kbd>Learning:</kbd>
         <br />
         <br />
   <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
@@ -41,7 +42,7 @@
       </kbd>
       
   <kbd align="center">
-      <kbd>Interesses:</kbd>
+      <kbd>Interested in:</kbd>
         <br />
         <br />
   <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
