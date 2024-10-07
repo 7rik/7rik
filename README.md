@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Erik Bezerra ou 7rik
+## Hi, Welcome to my GitHub!! I am Erik Bezerra
 
 
 - 🌱 Graduated in Systems Analysis and Development.
